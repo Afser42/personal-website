@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+section{
+    height:500px;
+    margin-bottom: 100px;
+}
+
+.top-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    font-size: 40px;
+}
+h2{
+    font-size: 50px;
+}
+
+p{
+    color: dimgrey;
+    padding-bottom: 20px;
+}
+
+.orange-highlighter{
+    color:#FF4991;
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 4%;
+    padding-left: 4%;
+}
+
+.half-width img {
+    width:100%;
+
+}
+
+.link-button{
+    background-color:#FF4991 ;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding:10px 20px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
